@@ -1,5 +1,5 @@
 FROM brereton/tomcat8
-MAINTAINER "JoAnn Brereton <joann.brereton@mlb.com>
+MAINTAINER "JoAnn Brereton <joann.brereton@gmail.com>
 
 USER root
 
